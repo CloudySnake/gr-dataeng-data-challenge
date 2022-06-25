@@ -28,21 +28,21 @@ The big day. Time to show of all that you have learnt and really impress. We'll 
 This might all sound a bit intimidating, but its important to stress that *we don't expect perfection*. All we want to see is that you are engaging with the problem, that you are learning and that you are having a good time! And of course, there will always be a few of us around to help in case you get stuck.
 
 ## What kind of problems could I study?
-TODO: Finish this section.
-
 Whatever inspires you! But remember, you've only got a short amount of time to work on it. The ideal problem will be:
 - Important. You should be able to say why you think this problem is worth your time.
-- Quantifiable.
-- Well studied. You'll need lots of data for your problem
+- Well studied. You'll need lots of data for this project. Focus on projects with lots of *quantified* data. Quanitied data is data that can be easily measured, think the number of COVID infections (numerical data), or the different classes of train travel (categorical data).
+
+Don't spend too long thinking about the problem you want to solve, it's more important to get started as soon as possible. Don't worry if you reach a dead-end and have to pivot to another problem. Setbacks are all part of the process, the important part is to keep going.
 
 Here's some ideas to get you started. You can work on these problems if you'd like, or use these as inspiration for your own ideas.
 
-### Pandemic
-COVID-19 
+TODO: Write up some ideas and link.
+
+1. COVID-19 
 [OWID Datasets](https://github.com/owid/owid-datasets/tree/master/datasets)
 * Lots of covid data [here](https://github.com/owid/covid-19-data/tree/master/public/data/)
 
-### 
+2. B
 
 [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [Barcelona Traffic Accidents](https://www.kaggle.com/datasets/emmanuelfwerr/barcelona-car-accidents)

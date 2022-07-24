@@ -9,14 +9,12 @@ Visualisation is an important part of what we do at G-Research. In this exercise
       b) Can you find another crypto-currency that behaves in the same way?
       c) Can you find a crypto-currency that does not follow this pattern?
 
-
     Q2. The simple moving average is a technical indicator that investors and traders use to determine the trend of a crypto-currency e.g. whether it is going up in price, or going down. The simple moving average of a series can be calculated by adding up all of the values during a specific period and dividing them by the length of the period. For example, the three day simple moving average of the series [1, 2, 3, 4, 5] is [(1 + 2 + 3) / 3, (2 + 3 + 4) / 3, (3 + 4 + 5) / 3] = [2, 3, 4] which indicates that this series has a positive trend.
       a) Plot the simple moving average of the daily closing price of Bitcoin for each day
         i) Using the previous three day period
         ii) Using the previous seven day period
         iii) Using the previous fourteen day period
       b) Plot a simple moving average on the same graph as the daily closing price of Bitcoin. Choose the one you think is the most informative.
-    
     
     Q3. Crypto-currency is a famously *volatile* asset. This means that the price of a crypto-currency can change by a large amount in a small amount of time. One way of measuring the volatility of a crypto-currency is by looking at the standard-deviation in the closing price over a period of time. The standard deviation reflects the average amount of stock price has differed from the mean over a period of time. It is calculated by determining the mean price for a period of time (the sum of the values in a period of time, divided by the number of values) and then subtracting this figure from each price point. The differences are then squared, summer and averaged to produce the variance. The standard deviation is the square root of the variance.
         a) Plot a bar chart showing the volatility of several crypto-currencies over all of time in the dataset, as measured by the standard deviation. Which crypto-currency is most volatile?
@@ -26,8 +24,7 @@ Visualisation is an important part of what we do at G-Research. In this exercise
           i) Using the previous three day period
           ii) Using the previous seven day period
           iii) Using the previous fourteen day period
-
-
+          
     [Hard]
     Q4. Using the simple moving average and the standard-deviation, we can plot 'Bollinger Bands', a type of statistical chart used in technical analysis. You can read more about how Bollinger bands are used online at Investopedia.
       a) Plot the simple moving average for a crypto-currency of your choosing. Use a time period of your choice (20 days is common).

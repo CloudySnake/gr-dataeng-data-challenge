@@ -77,9 +77,5 @@ Hint: For these question you will want to consider the *expected* return, how mu
 
     [Hard]
     Q4. Its the 1st January 2018 (the start of the dataset) and a future version of G-Research has just sent back a working time machine back.
-        a) Whats the most money that could be made in the next three years if you knew what the closing price of Bitcoin would be...
-          i) tomorrow?
-          ii) next week?
-          iii) next month?
-
+        a) Whats the most money that could be made in the next three years if you knew what the closing price of Bitcoin would be tomorrow?
         b) Would you have still made money if you used your previous strategy, but the time machine was broken, such that you actually knew the closing price from one week before you thought? For example the 'known' price at the 8th September 2019 is actually the price at the 1st September 2019.
